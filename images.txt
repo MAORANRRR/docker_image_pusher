@@ -4,3 +4,13 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+emby/embyserver:latest
+jxxghp/moviepilot-v2:latest
+imaliang/cloud-media-sync:latest
+homeassistant/home-assistant:latest
+linuxserver/qbittorrent:14.3.9
+gdy666/lucky:latest
+youshandefeiyang/allinone:latest
+0nlylty/dockercopilot:UGREEN
+easychen/cookiecloud:latest
+cloudnas/clouddrive2:latest
